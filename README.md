@@ -14,7 +14,7 @@
 
 <a href="https://github.com/Juliano-Cesar">
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-Cesar&theme=light&hide_langs_below=1" />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-Cesar&theme=light&hide_langs_below=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-Cesar&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Juliano-Cesar">
   <img src="https://github-readme-stats.vercel.app/api?username=Juliano-Cesar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
