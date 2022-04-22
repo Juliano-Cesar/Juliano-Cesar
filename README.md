@@ -4,7 +4,6 @@
 
 
 - 📖 Estou atualmente cursando Desenvolvimento de Sistemas no SENAI
-- 
 
 **Linguagens em que tenho experiência:**
 
