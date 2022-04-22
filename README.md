@@ -1,5 +1,7 @@
 ### Olá, meu nome é Juliano! 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tiurabe103&label=Views&color=blue&style=plastic" alt="Tiurabe103" /> </p>
+
 - Estou atualmente cursando Desenvolvimento de Sistemas no SENAI
 - 
 
