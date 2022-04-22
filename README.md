@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Juliano-Cesar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
 <a href="https://github.com/Juliano-Cesar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juliano-Cesar&show_icons=true&theme=light&line_height=27" alt="Juliano's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-Cesar&theme=light&hide_langs_below=1" />
 </a>
 <!--
 **Tiurabe103/Tiurabe103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
