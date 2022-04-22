@@ -4,7 +4,7 @@
 - 
 
 
-** Linguagens que tenho experiência: **
+**Linguagens que tenho experiência:**
 
 
 
