@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tiurabe103&label=Views&color=blue&style=plastic" alt="Tiurabe103" /> </p>
 
-- Estou atualmente cursando Desenvolvimento de Sistemas no SENAI
+
+- 📖 Estou atualmente cursando Desenvolvimento de Sistemas no SENAI
 - 
 
 
@@ -11,7 +12,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tiurabe103&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/iampawan">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tiurabe103&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</a>
 <!--
 **Tiurabe103/Tiurabe103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
