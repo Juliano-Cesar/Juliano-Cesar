@@ -1,5 +1,14 @@
-### Hi there 👋
+### Olá, meu nome é Juliano! 👋
 
+- Estou atualmente cursando Desenvolvimento de Sistemas no SENAI
+- 
+
+
+** Linguagens que tenho experiência: 
+
+
+
+<img-src="https://github-readme-stats.vercel.app/api?username=Tiurabe103&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 **Tiurabe103/Tiurabe103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
